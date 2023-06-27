@@ -68,3 +68,4 @@ UseTab: Never
 # Disable auto #include
 SortIncludes: false
 #SortIncludes: 'true'
+# It's good idea to add flag -header-insertion=never to clangd configure file

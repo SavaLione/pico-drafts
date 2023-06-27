@@ -28,3 +28,4 @@ endif()
 
 # Drafts
 add_subdirectory(src/blink)
+add_subdirectory(src/usb_uart)
